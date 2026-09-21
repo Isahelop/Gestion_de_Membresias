@@ -25,10 +25,10 @@ El sistema automatiza la verificación de acceso de los usuarios según el tipo 
 
 ## 🛠️ Código En Ejecución
 ### Mostrar datos y visitas restantes:
-![img.png](img.png)
+![img.png](src/img.png)
 
 ### Caso hipotetico de que no queden visitas:
-![img_1.png](img_1.png)
+![img_1.png](src/img_1.png)
 
 
 ### Dato necesario
